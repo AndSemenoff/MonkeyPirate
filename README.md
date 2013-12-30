@@ -2,3 +2,5 @@
 ============
 Перевод истории "The brave monkey pirate" на русский язык.
 Скачать оригинал в формате PDF можно [тут](http://bluebison.net/books/monkey-pirate/the-brave-monkey-pirate.pdf)
+Построчный перевод находится в файле text.txt
+Работать рекомендуется в программе Notepad++
