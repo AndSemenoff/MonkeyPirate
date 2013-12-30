@@ -1,4 +1,4 @@
-Для сайта [LadyPython.com](http://LadyPython.com)
+Р”Р»СЏ СЃР°Р№С‚Р° [LadyPython.com](http://LadyPython.com)
 ============
-Перевод истории "The brave monkey pirate" на русский язык.
-Скачать оригинал в формате PDF можно [тут](http://bluebison.net/books/monkey-pirate/the-brave-monkey-pirate.pdf)
+РџРµСЂРµРІРѕРґ РёСЃС‚РѕСЂРёРё "The brave monkey pirate" РЅР° СЂСѓСЃСЃРєРёР№ СЏР·С‹Рє.
+РЎРєР°С‡Р°С‚СЊ РѕСЂРёРіРёРЅР°Р» РІ С„РѕСЂРјР°С‚Рµ PDF РјРѕР¶РЅРѕ [С‚СѓС‚](http://bluebison.net/books/monkey-pirate/the-brave-monkey-pirate.pdf)
